@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Capítulos">
+        <menu>
+            <item
+                android:id="@+id/dedicatoria"
+                android:title="Dedicatória" />
+            <item
+                android:id="@+id/cap1"
+                android:title="Capítulo 1" />
+            <item
+                android:id="@+id/cap2"
+                android:title="Capítulo 2" />
+            <item
+                android:id="@+id/cap3"
+                android:title="Capítulo 3" />
+            <item
+                android:id="@+id/cap4"
+                android:title="Capítulo 4" />
+            <item
+                android:id="@+id/cap5"
+                android:title="Capítulo 5" />
+            <item
+                android:id="@+id/cap6"
+                android:title="Capítulo 6" />
+            <item
+                android:id="@+id/cap7"
+                android:title="Capítulo 7" />
+            <item
+                android:id="@+id/cap8"
+                android:title="Capítulo 8" />
+            <item
+                android:id="@+id/cap9"
+                android:title="Capítulo 9" />
+            <item
+                android:id="@+id/cap10"
+                android:title="Capítulo 10" />
+            <item
+                android:id="@+id/cap11"
+                android:title="Capítulo 11" />
+            <item
+                android:id="@+id/cap12"
+                android:title="Capítulo 12" />
+        </menu>
+    </item>
+
+    <item android:title="Sobre">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Escrito por Sergio V. Paixão" />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Desenvolvido por Matheus H. de C. Pinto" />
+        </menu>
+    </item>
+
+</menu>
