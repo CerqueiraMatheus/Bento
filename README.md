@@ -1,4 +1,9 @@
-# Bento Aprendia com tudo
+# Bento
+
+
+Projeto desenvolvido em parceria com o professor Sergio Vale da Paixão (escritor do livro, intitulado "Bento Aprendia com Tudo), para o IFPR Jacarezinho. O propósito foi estudar personalização de componentes como as barras de título e laterais, aplicação de imagens (com a biblioteca Picasso) e variação de cores e fontes.
+
+## Prints
 <div align="center">
 <p float="left">
   <img src="/prints/1.jpeg" width="200" />
