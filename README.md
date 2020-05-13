@@ -19,5 +19,6 @@ Foi criada uma divisão entre os "capítulos" do livro, acessada via menu latera
 <p float="left">
   <img src="/prints/4.jpeg" width="300" />
   <img src="/prints/5.jpeg" width="300" />
+  <img src="/prints/6.jpeg" width="300" />
 </p>
 </div>
