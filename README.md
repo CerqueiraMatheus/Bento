@@ -1,6 +1,6 @@
 # Bento
 
-Projeto desenvolvido em parceria com o professor Sergio Vale da Paixão (escritor do livro, intitulado "Bento Aprendia com Tudo), para o IFPR Jacarezinho. O propósito foi estudar personalização de componentes como as barras de título e laterais, aplicação de imagens (com a biblioteca Picasso) e variação de cores e fontes.
+Projeto desenvolvido em 2018 em parceria com o professor Sergio Vale da Paixão (escritor do livro, intitulado "Bento Aprendia com Tudo), para o IFPR Jacarezinho. O propósito foi estudar personalização de componentes como as barras de título e laterais, aplicação de imagens (com a biblioteca Picasso) e variação de cores e fontes.
 
 Baixe na Play Store: https://play.google.com/store/apps/details?id=math.projetobento&hl=pt_PT
 
